@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\as workspace\\MainActivity\\build\\intermediates\\res\\merged\\debug\\menu\\edit_menu.xml",
+        "source": "D:\\as workspace\\MainActivity\\res\\menu\\edit_menu.xml"
+    },
+    {
+        "merged": "D:\\as workspace\\MainActivity\\build\\intermediates\\res\\merged\\debug\\menu\\entry_menu.xml",
+        "source": "D:\\as workspace\\MainActivity\\res\\menu\\entry_menu.xml"
+    },
+    {
+        "merged": "D:\\as workspace\\MainActivity\\build\\intermediates\\res\\merged\\debug\\menu\\edit_location_menu.xml",
+        "source": "D:\\as workspace\\MainActivity\\res\\menu\\edit_location_menu.xml"
+    }
+]

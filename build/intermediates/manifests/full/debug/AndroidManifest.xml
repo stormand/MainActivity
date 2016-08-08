@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="meet.you"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/myBaseTheme" >
+        <activity
+            android:name="meet.you.SetUp"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="meet.you.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="meet.you.EditLocationActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.ADDROOM" />
+                <action android:name="android.intent.action.EDITROOM" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="meet.you.wxapi.WXEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="stateVisible" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.EDIT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="file" />
+                <data android:mimeType="*/*" />
+                <data android:pathPattern=".*\\.met" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tencent1104561257" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name="meet.you.MeetRemindReceiver" >
+        </receiver>
+        <!--
+                        <data android:scheme="file" />
+                <data android:mimeType="*/*" />
+                <data android:host="*.met" />
+                <data android:pathPattern=".*.*.*.met" />
+        -->
+        <provider
+            android:name="meet.you.data.CalendarProvider"
+            android:authorities="com.example.calendarview.calendarprovider" />
+        <provider
+            android:name="meet.you.data.MeetProvider"
+            android:authorities="meet.you.data.meetprovider" />
+
+        <service android:name="meet.you.FxService" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </service>
+        <service android:name="meet.you.DetailService" >
+            <intent-filter>
+                <action android:name="android.intent.action.DetailService" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/id_toolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@color/primary_color"
+        android:translationZ="5dp"/>
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/id_drawerlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/id_toolbar">
+
+       <FrameLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/context_layout">
+
+            <FrameLayout
+                android:id="@+id/cal_frame"
+                android:layout_width="match_parent"
+                android:layout_height="300dp" />
+
+            <FrameLayout
+                android:id="@+id/task_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/cal_frame" >
+
+                <ListView
+                    android:id="@+id/meet_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="15dp" />
+
+                <TextView
+                    android:id="@+id/no_meet_promp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/agenda_list" />
+            </FrameLayout>
+
+        </LinearLayout>
+       </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/id_left_menu_container"
+            android:name="meet.you.SettingFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="#ffffffff">
+        </FrameLayout>
+
+
+    </android.support.v4.widget.DrawerLayout>
+
+    <!--
+    <GridView
+        android:id="@+id/hour_grid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnWidth="60dp"
+        android:gravity="center"
+        android:horizontalSpacing="10dp"
+        android:numColumns="auto_fit"
+        android:padding="10dp"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="10dp" />
+    -->
+    <!--
+    <Button
+        android:id="@+id/create"
+        android:maxHeight="60dp"
+        android:layout_margin="@dimen/margin_left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:text="@string/create_meet" />
+    -->
+
+</RelativeLayout>

@@ -1,0 +1,1687 @@
+[
+    {
+        "outputFile": "D:\\as workspace\\MainActivity\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 90,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 90,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 102,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 102,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 102,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 102,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 104,
+                    "endOffset": 826
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 104,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 831,
+                    "endColumn": 106,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 106,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 938,
+                    "endColumn": 108,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endColumn": 108,
+                        "endOffset": 914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endColumn": 108,
+                    "endOffset": 1151
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 919,
+                        "endColumn": 108,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1156,
+                    "endColumn": 108,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 108,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 108,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 108,
+                        "endOffset": 1241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 108,
+                    "endOffset": 1478
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 108,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1483,
+                    "endColumn": 106,
+                    "endOffset": 1585
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 106,
+                        "endOffset": 1457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1590,
+                    "endColumn": 102,
+                    "endOffset": 1688
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1462,
+                        "endColumn": 102,
+                        "endOffset": 1560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1693,
+                    "endColumn": 118,
+                    "endOffset": 1807
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1565,
+                        "endColumn": 118,
+                        "endOffset": 1679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1812,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1962
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1925,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 2075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1967,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 2117
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2080,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 2230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2122,
+                    "endColumn": 104,
+                    "endOffset": 2222
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2481,
+                        "endColumn": 104,
+                        "endOffset": 2581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2227,
+                    "endColumn": 120,
+                    "endOffset": 2343
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2586,
+                        "endColumn": 120,
+                        "endOffset": 2702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2348,
+                    "endColumn": 100,
+                    "endOffset": 2444
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2707,
+                        "endColumn": 100,
+                        "endOffset": 2803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2449,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2591
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3049,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 3191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2596,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2732
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3196,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2737,
+                    "endColumn": 102,
+                    "endOffset": 2835
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3583,
+                        "endColumn": 102,
+                        "endOffset": 3681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2840,
+                    "endColumn": 118,
+                    "endOffset": 2954
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3686,
+                        "endColumn": 118,
+                        "endOffset": 3800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2959,
+                    "endColumn": 106,
+                    "endOffset": 3061
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3805,
+                        "endColumn": 106,
+                        "endOffset": 3907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3066,
+                    "endColumn": 102,
+                    "endOffset": 3164
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3912,
+                        "endColumn": 102,
+                        "endOffset": 4010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3169,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3311
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4256,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 4398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3316,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3466
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4403,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3471,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3637
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4558,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3642,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3786
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4729,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3791,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3951
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4878,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 5038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3956,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 4108
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 5043,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 5195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4113,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 4259
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5200,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 5346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4264,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 4408
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5351,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4413,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4557
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5500,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 5644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4562,
+                    "endColumn": 111,
+                    "endOffset": 4669
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5895,
+                        "endColumn": 111,
+                        "endOffset": 6002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4674,
+                    "endColumn": 146,
+                    "endOffset": 4816
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 6248,
+                        "endColumn": 146,
+                        "endOffset": 6390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4821,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4969
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 6395,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 6543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4974,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 5116
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 6548,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 6690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5121,
+                    "endColumn": 74,
+                    "endOffset": 5191
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6936,
+                        "endColumn": 74,
+                        "endOffset": 7006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5196,
+                    "endColumn": 88,
+                    "endOffset": 5280
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 7011,
+                        "endColumn": 88,
+                        "endOffset": 7095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5285,
+                    "endColumn": 86,
+                    "endOffset": 5367
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 7100,
+                        "endColumn": 86,
+                        "endOffset": 7182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5372,
+                    "endColumn": 100,
+                    "endOffset": 5468
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 7187,
+                        "endColumn": 100,
+                        "endOffset": 7283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5473,
+                    "endLine": 113,
+                    "endColumn": 12,
+                    "endOffset": 8871
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 7288,
+                        "endLine": 123,
+                        "endColumn": 12,
+                        "endOffset": 10686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8876,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 9057
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 10691,
+                        "endLine": 126,
+                        "endColumn": 12,
+                        "endOffset": 10872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 9062,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 12472
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 10877,
+                        "endLine": 174,
+                        "endColumn": 12,
+                        "endOffset": 14287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 12477,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12670
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 14292,
+                        "endLine": 177,
+                        "endColumn": 12,
+                        "endOffset": 14485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12675,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12793
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 14731,
+                        "endLine": 181,
+                        "endColumn": 12,
+                        "endOffset": 14849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12798,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 12916
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 14854,
+                        "endLine": 183,
+                        "endColumn": 12,
+                        "endOffset": 14972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 12921,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 13029
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14977,
+                        "endLine": 185,
+                        "endColumn": 12,
+                        "endOffset": 15085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13034,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 13212
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 15090,
+                        "endLine": 188,
+                        "endColumn": 12,
+                        "endOffset": 15268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13217,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 13343
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 15273,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 15399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13348,
+                    "endColumn": 116,
+                    "endOffset": 13460
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 15404,
+                        "endColumn": 116,
+                        "endOffset": 15516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13465,
+                    "endColumn": 88,
+                    "endOffset": 13549
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 15521,
+                        "endColumn": 88,
+                        "endOffset": 15605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13554,
+                    "endColumn": 110,
+                    "endOffset": 13660
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 15610,
+                        "endColumn": 110,
+                        "endOffset": 15716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13665,
+                    "endColumn": 126,
+                    "endOffset": 13787
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 15721,
+                        "endColumn": 126,
+                        "endOffset": 15843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13792,
+                    "endColumn": 100,
+                    "endOffset": 13888
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 15848,
+                        "endColumn": 100,
+                        "endOffset": 15944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13893,
+                    "endColumn": 94,
+                    "endOffset": 13983
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 15949,
+                        "endColumn": 94,
+                        "endOffset": 16039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 13988,
+                    "endColumn": 122,
+                    "endOffset": 14106
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 16044,
+                        "endColumn": 122,
+                        "endOffset": 16162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 14111,
+                    "endColumn": 128,
+                    "endOffset": 14235
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 16167,
+                        "endColumn": 128,
+                        "endOffset": 16291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14240,
+                    "endColumn": 116,
+                    "endOffset": 14352
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 16296,
+                        "endColumn": 116,
+                        "endOffset": 16408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14357,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 14487
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 16413,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 16543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14492,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 14630
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 16548,
+                        "endLine": 203,
+                        "endColumn": 12,
+                        "endOffset": 16686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14635,
+                    "endLine": 193,
+                    "endColumn": 12,
+                    "endOffset": 14765
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 16691,
+                        "endLine": 205,
+                        "endColumn": 12,
+                        "endOffset": 16821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 14770,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 14884
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 16826,
+                        "endLine": 207,
+                        "endColumn": 12,
+                        "endOffset": 16940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14889,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 15085
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 16945,
+                        "endLine": 211,
+                        "endColumn": 12,
+                        "endOffset": 17141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15090,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 15204
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 17146,
+                        "endLine": 213,
+                        "endColumn": 12,
+                        "endOffset": 17260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15209,
+                    "endColumn": 92,
+                    "endOffset": 15297
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 17265,
+                        "endColumn": 92,
+                        "endOffset": 17353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 15302,
+                    "endColumn": 110,
+                    "endOffset": 15408
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 17358,
+                        "endColumn": 110,
+                        "endOffset": 17464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15413,
+                    "endColumn": 55,
+                    "endOffset": 15464
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 17469,
+                        "endColumn": 55,
+                        "endOffset": 17520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 15469,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 15571
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 17525,
+                        "endLine": 218,
+                        "endColumn": 12,
+                        "endOffset": 17627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 15576,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 15766
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 17632,
+                        "endLine": 222,
+                        "endColumn": 12,
+                        "endOffset": 17822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15771,
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 15877
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 17827,
+                        "endLine": 224,
+                        "endColumn": 12,
+                        "endOffset": 17933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15882,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 16010
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 17938,
+                        "endLine": 226,
+                        "endColumn": 12,
+                        "endOffset": 18066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16015,
+                    "endColumn": 94,
+                    "endOffset": 16105
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 4,
+                        "startOffset": 18071,
+                        "endColumn": 94,
+                        "endOffset": 18161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 16110,
+                    "endColumn": 90,
+                    "endOffset": 16196
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 18166,
+                        "endColumn": 90,
+                        "endOffset": 18252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16201,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 16505
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 4,
+                        "startOffset": 18257,
+                        "endLine": 233,
+                        "endColumn": 12,
+                        "endOffset": 18561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 16510,
+                    "endColumn": 112,
+                    "endOffset": 16618
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 18566,
+                        "endColumn": 112,
+                        "endOffset": 18674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16623,
+                    "endColumn": 116,
+                    "endOffset": 16735
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 4,
+                        "startOffset": 18679,
+                        "endColumn": 116,
+                        "endOffset": 18791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16740,
+                    "endLine": 225,
+                    "endColumn": 12,
+                    "endOffset": 16874
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 4,
+                        "startOffset": 18796,
+                        "endLine": 237,
+                        "endColumn": 12,
+                        "endOffset": 18930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 16879,
+                    "endLine": 232,
+                    "endColumn": 12,
+                    "endOffset": 17227
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 19176,
+                        "endLine": 246,
+                        "endColumn": 12,
+                        "endOffset": 19524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 17232,
+                    "endLine": 239,
+                    "endColumn": 12,
+                    "endOffset": 17592
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 19529,
+                        "endLine": 253,
+                        "endColumn": 12,
+                        "endOffset": 19889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 17597,
+                    "endLine": 249,
+                    "endColumn": 12,
+                    "endOffset": 18277
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 254,
+                        "startColumn": 4,
+                        "startOffset": 19894,
+                        "endLine": 263,
+                        "endColumn": 12,
+                        "endOffset": 20574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 18282,
+                    "endLine": 259,
+                    "endColumn": 12,
+                    "endOffset": 18963
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 20579,
+                        "endLine": 273,
+                        "endColumn": 12,
+                        "endOffset": 21260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 18968,
+                    "endLine": 263,
+                    "endColumn": 12,
+                    "endOffset": 19199
+                },
+                "from": {
+                    "file": "D:\\as workspace\\MainActivity\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 673,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 907
+                    }
+                }
+            }
+        ]
+    }
+]
